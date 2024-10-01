@@ -31,6 +31,7 @@ fun BMIApp() {
     )
 }
 
+
 @Preview(showBackground = true)
 @Composable
 fun DefaultPreview() {
