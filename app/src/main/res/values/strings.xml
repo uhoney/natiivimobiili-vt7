@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">natiivimobiili-vt7</string>
+    <string name="body_mass_index">Body mass index</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="result">Body mass index is %.1f</string>
+    <string name="none">Insert parameters</string>
+    <string name="ref_severe_under">Starvin Marvin</string>
+    <string name="ref_under">You are underweight</string>
+    <string name="ref_normal">Weight in normal range</string>"
+    <string name="ref_fat1">Mildly obese </string>"
+    <string name="ref_fat2">Suggestion: exercise</string>
+    <string name="ref_fat3">I would call you fat++</string>
+    <string name="ref_fat4">You fat as yo momma</string>
 </resources>
